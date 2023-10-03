@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(513,5): warning MSB8003: The WindowsSDKDir property is not defined. Some build tools may not be found.
+  app.c
+D:\Git Projects\Payment-Application\Card\card.h(4,9): fatal  error C1083: Cannot open include file: 'stdio.h': No such file or directory
+  card.c
+D:\Git Projects\Payment-Application\Card\card.h(4,9): fatal  error C1083: Cannot open include file: 'stdio.h': No such file or directory
+  server.c
+D:\Git Projects\Payment-Application\Card\card.h(4,9): fatal  error C1083: Cannot open include file: 'stdio.h': No such file or directory
+  terminal.c
+D:\Git Projects\Payment-Application\Card\card.h(4,9): fatal  error C1083: Cannot open include file: 'stdio.h': No such file or directory
